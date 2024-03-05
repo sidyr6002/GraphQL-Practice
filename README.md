@@ -13,12 +13,12 @@ Clone this repository to your local machine:
 git clone https://github.com/sidyr6002/GraphQL-Practice.git
 ```
 
-## For server 
+### For server 
 ```bash
 npm i && npm run start
 ```
 
-## For client
+### For client
 ```bash
 npm i && num run dev
 ```
